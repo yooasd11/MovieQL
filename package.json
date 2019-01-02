@@ -1,0 +1,19 @@
+{
+  "name": "movieql",
+  "version": "1.0.0",
+  "description": "Movie web sample app with GraphQL",
+  "scripts": {
+    "back": "npm start --prefix ./backend/",
+    "front": "npm start --prefix ./frontend/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yooasd11/MovieQL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yooasd11/MovieQL/issues"
+  },
+  "homepage": "https://github.com/yooasd11/MovieQL#readme"
+}
